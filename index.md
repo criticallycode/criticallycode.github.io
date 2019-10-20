@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 # This Is My Portfolio
 
-[Project Title 1 - Nonfunctional Link]
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 
 ## Machine Learning/Deep Learning Projects
