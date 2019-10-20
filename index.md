@@ -26,6 +26,24 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# This Is My Portfolio
+
+[Project Title 1 - Nonfunctional Link]
+
+
+## Machine Learning/Deep Learning Projects
+
+
+
+## Data Analysis
+
+
+
+## Pure Python Projects
+
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
