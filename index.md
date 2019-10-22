@@ -29,6 +29,7 @@ Syntax highlighted code block
 # This Is My Portfolio
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
+![Image]("coffee.jpg")
 
 
 ## Machine Learning/Deep Learning Projects
