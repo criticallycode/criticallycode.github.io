@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
-![Image](coffee.jpg)
+<img src="coffee.jpg" width="300">
 
 
 ## Machine Learning/Deep Learning Projects
