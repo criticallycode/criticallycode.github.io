@@ -35,12 +35,9 @@ Syntax highlighted code block
 
 ## Machine Learning/Deep Learning Projects
 
+##### Mushroom Classifier
 
-
-## Data Analysis
-
-#### Facebook Text Data Analysis
-This project catalogues many functions I used to visualize and analyze my own Facebook data. The analysis was carried out on text data and a number of different analytical techniques - such as sentiment analysis, named entity recognition, and word clouds - were used.
+Classification and visualization of a dataset consisting of mushrooms with many different features.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -55,6 +52,19 @@ An analysis of video game sales and a comparison of several different sales pred
 
 #### Sentiment Analysis
 A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent.
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Titanic Analysis
+
+
+
+## Data Analysis
+
+#### Facebook Text Data Analysis
+This project catalogues many functions I used to visualize and analyze my own Facebook data. The analysis was carried out on text data and a number of different analytical techniques - such as sentiment analysis, named entity recognition, and word clouds - were used.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
