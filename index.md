@@ -39,11 +39,33 @@ Syntax highlighted code block
 
 ## Data Analysis
 
+#### Facebook Text Data Analysis
+This project catalogues many functions I used to visualize and analyze my own Facebook data. The analysis was carried out on text data and a number of different analytical techniques - such as sentiment analysis, named entity recognition, and word clouds - were used.
 
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+<img src="coffee.jpg" width="300">
 
-## Pure Python Projects
+#### Video Game Sales
+An analysis of video game sales and a comparison of several different sales prediction methods.
 
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+<img src="coffee.jpg" width="300">
 
+#### Sentiment Analysis
+A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent.
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+<img src="coffee.jpg" width="300">
+
+## Other Python Projects
+
+#### Movie Plot Generator
+This project collected plot summaries from a variety of movies catalogued at the Open Movie Database. These plot summaries were then used to create new plot ideas for writers. The project compared multiple methods of generating text, including using an LSTM neural network, a Recurrent Neural Network and Markov Chains.
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+<img src="coffee.jpg" width="300">
+
+#### Movie Recommendation System
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
