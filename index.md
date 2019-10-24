@@ -9,11 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -34,6 +29,54 @@ Syntax highlighted code block
 
 
 ## Machine Learning/Deep Learning Projects
+
+#### Blood Cell Classifier - Transfer Learning (Keras)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Flower Classification - Triple Model Classification (Keras)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Text Classification Comparision - (Keras)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### XRay Classification Transfer Learning Tutorial - (Keras)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### CIAFR-10 Classification - Transfer Learning - (PyTorch)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Fruit Classification - (PyTorch)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Text Generation - Character Level - (PyTorch)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Neural Style Transfer - (PyTorch)
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
 
 ##### Mushroom Classifier
 
@@ -58,13 +101,23 @@ A custom sentiment analysis module was created, based on the voting of multiple 
 <img src="coffee.jpg" width="300">
 
 #### Titanic Analysis
+An analysis and classfication done on the Titanic dataset. Data is preprocessed and missing values imputed, the data is then visualized and analyzed. Afterwards, multiple classifiers are run on the dataset and their performance is compared.
 
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
 
+<img src="coffee.jpg" width="300">
 
 ## Data Analysis
 
 #### Facebook Text Data Analysis
 This project catalogues many functions I used to visualize and analyze my own Facebook data. The analysis was carried out on text data and a number of different analytical techniques - such as sentiment analysis, named entity recognition, and word clouds - were used.
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### GameInformer Data Analysis
+Data was scraped from over 1100 reviews of games done by GameInformer. The data was then analyzed to explore patterns regarding review scores, publishers, developers, consoles and more.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -85,6 +138,90 @@ A movie recommendation system based on the similarity of movie attributes such a
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
+
+## Front End/Web Development
+
+#### Javascript Ball Bounce Animation
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Javascript Custom Media Database
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Javascript Quiz App
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Javascript To-Do List
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Javascript Weather App
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Django Blog App
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Django Craigslist Wrapper
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Django Poll App
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Django To-Do App
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+## Tutorials
+
+#### Keras Image Recognition Tutorial
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Multiple Linear Regression Tutorial
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### PyTorch Transfer Learning Tutorial
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+#### Data Analysis and Storage with MongoDB Tutorial
+
+[Project Title 1 - Nonfunctional Link](http://reddit.com)
+
+<img src="coffee.jpg" width="300">
+
+
 
 
 
