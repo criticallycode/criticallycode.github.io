@@ -30,13 +30,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Machine Learning/Deep Learning Projects
 
-#### Blood Cell Classifier - Transfer Learning (Keras)
+##### Blood Cell Classifier - Transfer Learning (Keras)
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
-#### Flower Classification - Triple Model Classification (Keras)
+##### Flower Classification - Triple Model Classification (Keras)
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
