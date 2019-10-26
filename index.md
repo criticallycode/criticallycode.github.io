@@ -44,7 +44,9 @@ Flowers are classified in this project, and the performance of three different m
 
 [Flower Classification Repo](https://github.com/criticallycode/classifciation-of-pretty-flowers-with-keras)
 
-<img src="coffee.jpg" width="300">
+<img src="flower-1-acc.png" width="300">
+<img src="flower-2-acc.png" width="300">
+<img src="flower-3-acc.png" width="300">
 
 ##### Text Classification Comparision - (Keras)
 
@@ -52,7 +54,9 @@ Text classification is carried out on multiple bodies of text. An embedding mode
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
-<img src="coffee.jpg" width="300">
+<img src="text-class-1.png" width="300">
+<img src="text-class-2.png" width="300">
+<img src="text-class-3.png" width="300">
 
 ##### X-Ray Classification Transfer Learning Tutorial - (Keras)
 
@@ -60,7 +64,10 @@ Classification of X-Ray medical images is carried out in this project. One class
 
 [X-Ray Classifier Repo](https://github.com/criticallycode/cool-text-classifier-comparison)
 
-<img src="coffee.jpg" width="300">
+<img src="xray1.png" width="300">
+<img src="xray2.png" width="300">
+<img src="xray-model1-acc.png" width="300">
+<img src="xray-model2-acc.png" width="300">
 
 ##### CIAFR-10 Classification - Transfer Learning - (PyTorch)
 
@@ -68,7 +75,7 @@ Classification done on the CIFAR-10 dataset. The notebook attached to the repo a
 
 [CIFAR-10 Classification Repo](https://github.com/criticallycode/cool-CIFAR10-PyTorch)
 
-<img src="coffee.jpg" width="300">
+<img src="CIFAR-10 graph.png" width="300">
 
 ##### Fruit Classification - (PyTorch)
 
