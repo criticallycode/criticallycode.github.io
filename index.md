@@ -30,7 +30,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Machine Learning/Deep Learning Projects
 
-##### Blood Cell Classifier - Transfer Learning (Keras)
+##### Blood Cell Classifier - Transfer Learning - Model Finetuning (Keras)
+
+This project demonstrates the use of transfer learning and finetuning to classify images of blood cells. 
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -38,17 +40,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ##### Flower Classification - Triple Model Classification (Keras)
 
+Flowers are classified in this project, and the performance of three different models is compared. A custom model, as well as ResNet50 and InceptionV3 are compared.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Text Classification Comparision - (Keras)
 
+Text classification is carried out on multiple bodies of text. An embedding model is used for the classification, and the performance of an LSTM model is compared as well.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### XRay Classification Transfer Learning Tutorial - (Keras)
+
+Classification of X-Ray medical images is carried out in this project. One classifier is trained on the original dataset and then a second set of data has perturbations applied to it to simulate image corruption. An example of transfer learning is carried out after this, retraining the original model on the new dataset.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
