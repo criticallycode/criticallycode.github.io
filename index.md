@@ -64,11 +64,15 @@ Classification of X-Ray medical images is carried out in this project. One class
 
 ##### CIAFR-10 Classification - Transfer Learning - (PyTorch)
 
+Classification done on the CIFAR-10 dataset. The notebook attached to the repo also serves as a tutorial for image classification with PyTorch.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Fruit Classification - (PyTorch)
+
+Classification carried out on a dataset of over 100 fruits. The model is a custom model inheriting from nn.Module. 
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -81,6 +85,8 @@ Classification of X-Ray medical images is carried out in this project. One class
 <img src="coffee.jpg" width="300">
 
 ##### Neural Style Transfer - (PyTorch)
+
+An example of neural style transfer done with PyTorch. The content of one image is redrawn with the style of another image by averaging the loss of the two images.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
