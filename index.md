@@ -42,7 +42,7 @@ This project demonstrates the use of transfer learning and finetuning to classif
 
 Flowers are classified in this project, and the performance of three different models is compared. A custom model, as well as ResNet50 and InceptionV3 are compared.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Flower Classification Repo](https://github.com/criticallycode/classifciation-of-pretty-flowers-with-keras)
 
 <img src="coffee.jpg" width="300">
 
@@ -54,11 +54,11 @@ Text classification is carried out on multiple bodies of text. An embedding mode
 
 <img src="coffee.jpg" width="300">
 
-##### XRay Classification Transfer Learning Tutorial - (Keras)
+##### X-Ray Classification Transfer Learning Tutorial - (Keras)
 
 Classification of X-Ray medical images is carried out in this project. One classifier is trained on the original dataset and then a second set of data has perturbations applied to it to simulate image corruption. An example of transfer learning is carried out after this, retraining the original model on the new dataset.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[X-Ray Classifier Repo](https://github.com/criticallycode/cool-text-classifier-comparison)
 
 <img src="coffee.jpg" width="300">
 
@@ -66,7 +66,7 @@ Classification of X-Ray medical images is carried out in this project. One class
 
 Classification done on the CIFAR-10 dataset. The notebook attached to the repo also serves as a tutorial for image classification with PyTorch.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[CIFAR-10 Classification Repo](https://github.com/criticallycode/cool-CIFAR10-PyTorch)
 
 <img src="coffee.jpg" width="300">
 
@@ -74,7 +74,7 @@ Classification done on the CIFAR-10 dataset. The notebook attached to the repo a
 
 Classification carried out on a dataset of over 100 fruits. The model is a custom model inheriting from nn.Module. 
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Fruits-360 Classification Repo](https://github.com/criticallycode/tasty-fruits360-with-pytorch)
 
 <img src="coffee.jpg" width="300">
 
@@ -82,7 +82,7 @@ Classification carried out on a dataset of over 100 fruits. The model is a custo
 
 An implementation of a text generation method with Pytorch, created with a recurrent neural network.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Text Generation with Pytorch RNN Repo](https://github.com/criticallycode/text-generation-with-PyTorch)
 
 <img src="coffee.jpg" width="300">
 
@@ -98,28 +98,28 @@ An example of neural style transfer done with PyTorch. The content of one image 
 
 Classification and visualization of a dataset consisting of mushrooms with many different features.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Mushroom Classifier Repo](https://github.com/criticallycode/Mushroom-Classifier-Comparison)
 
 <img src="coffee.jpg" width="300">
 
 ##### Video Game Sales
 An analysis of video game sales and a comparison of several different sales prediction methods.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Video Game Sales Analysis and Prediction Repo](https://github.com/criticallycode/Video-Game-Sales-Analysis)
 
 <img src="coffee.jpg" width="300">
 
 ##### Sentiment Analysis
-A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent.
+A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent. The performance of this custom sentiment analysis module is compared with the performance of other sentiment analysis modules.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Sentiment Analysis Repo](https://github.com/criticallycode/sentiment_analysis_compare)
 
 <img src="coffee.jpg" width="300">
 
 ##### Titanic Analysis
 An analysis and classfication done on the Titanic dataset. Data is preprocessed and missing values imputed, the data is then visualized and analyzed. Afterwards, multiple classifiers are run on the dataset and their performance is compared.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Titanic Analysis Repo](https://github.com/criticallycode/awesome-titanic-analysis-prediction)
 
 <img src="coffee.jpg" width="300">
 
