@@ -80,6 +80,8 @@ Classification carried out on a dataset of over 100 fruits. The model is a custo
 
 ##### Text Generation - Character Level - (PyTorch)
 
+An implementation of a text generation method with Pytorch, created with a recurrent neural network.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
@@ -157,11 +159,15 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 ##### Javascript Ball Bounce Animation
 
+An animation featuring multiple colored balls bouncing around, which gradually speed up.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Javascript Custom Media Database
+
+A custom media database that allows the user to enter and track the media they engage with. They can enter the type of media, the completion status, and any notes they have.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -169,11 +175,15 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 ##### Javascript Quiz App
 
+A simple quiz app.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Javascript To-Do List
+
+A to-do list app that allows user to create a to-do list and update it. 
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -181,11 +191,15 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 ##### Javascript Weather App
 
+A weather app that gets weather based on your current GPS location.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Django Blog App
+
+A blog app created in Django. This app allows the creation and editing of blog posts by users that can create and edit their accounts.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -193,17 +207,23 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 ##### Django Craigslist Wrapper
 
+A wrapper for Craigslist that lets people make searches and view search results with an improved visual format.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Django Poll App
 
+An app that allows users to see and vote on various polls.
+
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
 <img src="coffee.jpg" width="300">
 
 ##### Django To-Do App
+
+A to-do app created in Django that lets the user create items on a to-do list and delete those items when finished.
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
@@ -237,15 +257,3 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/criticallycode/criticallycode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
