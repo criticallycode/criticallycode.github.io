@@ -128,14 +128,14 @@ An analysis and classfication done on the Titanic dataset. Data is preprocessed 
 ##### Facebook Text Data Analysis
 This project catalogues many functions I used to visualize and analyze my own Facebook data. The analysis was carried out on text data and a number of different analytical techniques - such as sentiment analysis, named entity recognition, and word clouds - were used.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Facebook Text Analysis Repo](https://github.com/criticallycode/Facebook_Text_Analysis)
 
 <img src="coffee.jpg" width="300">
 
 ##### GameInformer Data Analysis
 Data was scraped from over 1100 reviews of games done by GameInformer. The data was then analyzed to explore patterns regarding review scores, publishers, developers, consoles and more.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[GameInformer Review Analysis Repo](https://github.com/criticallycode/gameinformer_reviews_analysis)
 
 <img src="coffee.jpg" width="300">
 
@@ -151,7 +151,7 @@ This project collected plot summaries from a variety of movies catalogued at the
 ##### Movie Recommendation System
 A movie recommendation system based on the similarity of movie attributes such as Director, cast, genre, and various keywords. The similarities between the movies are calculated with different metrics and averaged together.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Story Plot Generator Repo](https://github.com/criticallycode/story_plot_generator)
 
 <img src="coffee.jpg" width="300">
 
@@ -161,15 +161,13 @@ A movie recommendation system based on the similarity of movie attributes such a
 
 An animation featuring multiple colored balls bouncing around, which gradually speed up.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
+[JavaScript Animation Here](https://criticallycode.github.io/js-animation/)
 
 ##### Javascript Custom Media Database
 
 A custom media database that allows the user to enter and track the media they engage with. They can enter the type of media, the completion status, and any notes they have.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Media Database Repo](https://github.com/criticallycode/javascript-custom-media-database)
 
 <img src="coffee.jpg" width="300">
 
@@ -177,31 +175,19 @@ A custom media database that allows the user to enter and track the media they e
 
 A simple quiz app.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
-
-##### Javascript To-Do List
-
-A to-do list app that allows user to create a to-do list and update it. 
-
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
+[Quiz App Here](https://criticallycode.github.io/quiz-app/)
 
 ##### Javascript Weather App
 
 A weather app that gets weather based on your current GPS location.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
+[Weather App HERE](https://criticallycode.github.io/weather-app/)
 
 ##### Django Blog App
 
 A blog app created in Django. This app allows the creation and editing of blog posts by users that can create and edit their accounts.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Blog App Repo](https://github.com/criticallycode/django_blog_app)
 
 <img src="coffee.jpg" width="300">
 
@@ -209,7 +195,7 @@ A blog app created in Django. This app allows the creation and editing of blog p
 
 A wrapper for Craigslist that lets people make searches and view search results with an improved visual format.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Craigslist Wrapper Repo](https://github.com/criticallycode/cooler-craiglist-clone)
 
 <img src="coffee.jpg" width="300">
 
@@ -217,7 +203,7 @@ A wrapper for Craigslist that lets people make searches and view search results 
 
 An app that allows users to see and vote on various polls.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Polling App Repo](https://github.com/criticallycode/polling_app)
 
 <img src="coffee.jpg" width="300">
 
@@ -225,7 +211,7 @@ An app that allows users to see and vote on various polls.
 
 A to-do app created in Django that lets the user create items on a to-do list and delete those items when finished.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Django To-Do Repo](https://github.com/criticallycode/smooth-todo-app)
 
 <img src="coffee.jpg" width="300">
 
