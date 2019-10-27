@@ -93,7 +93,7 @@ An implementation of a text generation method with Pytorch, created with a recur
 [Text Generation with Pytorch RNN Repo](https://github.com/criticallycode/text-generation-with-PyTorch)
 
 <img src="pytorch-textgen-1.png" width="150">
-<img src="pytorch-textgen-2.png" width="150">
+<img src="pytorch-textgen -2.png" width="150">
 
 ##### Neural Style Transfer - (PyTorch)
 
@@ -121,14 +121,15 @@ An analysis of video game sales and a comparison of several different sales pred
 
 <img src="vgsales1.png" width="150">
 <img src="vgsales2.png" width="150">
-<img src="vgsales3.png" width="150">
+<img src="vgales3.png" width="150">
 
 ##### Sentiment Analysis
 A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent. The performance of this custom sentiment analysis module is compared with the performance of other sentiment analysis modules.
 
 [Sentiment Analysis Repo](https://github.com/criticallycode/sentiment_analysis_compare)
 
-<img src="coffee.jpg" width="300">
+<img src="sent1.png" width="150">
+<img src="sent2.png" width="150">
 
 ##### Titanic Analysis
 An analysis and classfication done on the Titanic dataset. Data is preprocessed and missing values imputed, the data is then visualized and analyzed. Afterwards, multiple classifiers are run on the dataset and their performance is compared.
@@ -144,14 +145,23 @@ This project catalogues many functions I used to visualize and analyze my own Fa
 
 [Facebook Text Analysis Repo](https://github.com/criticallycode/Facebook_Text_Analysis)
 
-<img src="coffee.jpg" width="300">
+<img src="fb1.png" width="150">
+<img src="fb2.png" width="150">
+<img src="fb3.png" width="150">
+<img src="fb4.png" width="150">
+<img src="fb5.png" width="150">
 
 ##### GameInformer Data Analysis
 Data was scraped from over 1100 reviews of games done by GameInformer. The data was then analyzed to explore patterns regarding review scores, publishers, developers, consoles and more.
 
 [GameInformer Review Analysis Repo](https://github.com/criticallycode/gameinformer_reviews_analysis)
 
-<img src="coffee.jpg" width="300">
+<img src="GI1.png" width="150">
+<img src="GI2.png" width="150">
+<img src="Gi3.png" width="150">
+<img src="GI4.png" width="150">
+<img src="GI5.png" width="150">
+<img src="GI6.png" width="150">
 
 ## Other Python Projects
 
