@@ -83,7 +83,8 @@ Classification carried out on a dataset of over 100 fruits. The model is a custo
 
 [Fruits-360 Classification Repo](https://github.com/criticallycode/tasty-fruits360-with-pytorch)
 
-<img src="coffee.jpg" width="300">
+<img src="fruit-1.png" width="150">
+<img src="fruit-2.png" width="150">
 
 ##### Text Generation - Character Level - (PyTorch)
 
@@ -91,7 +92,8 @@ An implementation of a text generation method with Pytorch, created with a recur
 
 [Text Generation with Pytorch RNN Repo](https://github.com/criticallycode/text-generation-with-PyTorch)
 
-<img src="coffee.jpg" width="300">
+<img src="pytorch-textgen-1.png" width="150">
+<img src="pytorch-textgen-2.png" width="150">
 
 ##### Neural Style Transfer - (PyTorch)
 
@@ -107,14 +109,19 @@ Classification and visualization of a dataset consisting of mushrooms with many 
 
 [Mushroom Classifier Repo](https://github.com/criticallycode/Mushroom-Classifier-Comparison)
 
-<img src="coffee.jpg" width="300">
+<img src="mush1.png" width="150">
+<img src="mush2.png" width="150">
+<img src="mush3.png" width="150">
+<img src="mush4.png" width="150">
 
 ##### Video Game Sales
 An analysis of video game sales and a comparison of several different sales prediction methods.
 
 [Video Game Sales Analysis and Prediction Repo](https://github.com/criticallycode/Video-Game-Sales-Analysis)
 
-<img src="coffee.jpg" width="300">
+<img src="vgsales1.png" width="150">
+<img src="vgsales2.png" width="150">
+<img src="vgsales3.png" width="150">
 
 ##### Sentiment Analysis
 A custom sentiment analysis module was created, based on the voting of multiple classifiers like Naive Bayes, Logistic Regression, Decision Trees, and Stocastic Gradient Descent. The performance of this custom sentiment analysis module is compared with the performance of other sentiment analysis modules.
