@@ -23,11 +23,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # This Is My Portfolio
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
-
-
 ## Machine Learning/Deep Learning Projects
 
 ##### Blood Cell Classifier - Transfer Learning - Model Finetuning (Keras)
@@ -240,7 +235,7 @@ A to-do app created in Django that lets the user create items on a to-do list an
 
 [Django To-Do Repo](https://github.com/criticallycode/smooth-todo-app)
 
-<img src="todo.png" width="150">
+<img src="todo1.png" width="150">
 
 ## Tutorials
 
