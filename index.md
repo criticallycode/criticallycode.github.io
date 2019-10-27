@@ -168,16 +168,16 @@ Data was scraped from over 1100 reviews of games done by GameInformer. The data 
 ##### Movie Plot Generator
 This project collected plot summaries from a variety of movies catalogued at the Open Movie Database. These plot summaries were then used to create new plot ideas for writers. The project compared multiple methods of generating text, including using an LSTM neural network, a Recurrent Neural Network and Markov Chains.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Story Plot Generator Repo](https://github.com/criticallycode/story_plot_generator)
 
 <img src="coffee.jpg" width="300">
 
 ##### Movie Recommendation System
 A movie recommendation system based on the similarity of movie attributes such as Director, cast, genre, and various keywords. The similarities between the movies are calculated with different metrics and averaged together.
 
-[Story Plot Generator Repo](https://github.com/criticallycode/story_plot_generator)
+[Movie Recommender Repo](https://github.com/criticallycode/content_movie_recommender)
 
-<img src="coffee.jpg" width="300">
+<img src="recommend1.png" width="150">
 
 ## Front End/Web Development
 
@@ -193,7 +193,7 @@ A custom media database that allows the user to enter and track the media they e
 
 [Media Database Repo](https://github.com/criticallycode/javascript-custom-media-database)
 
-<img src="coffee.jpg" width="300">
+<img src="customdb1.png" width="150">
 
 ##### Javascript Quiz App
 
@@ -206,6 +206,8 @@ A simple quiz app.
 A weather app that gets weather based on your current GPS location.
 
 [Weather App HERE](https://criticallycode.github.io/weather-app/)
+
+<img src="weather1.png" width="150">
 
 ##### Django Blog App
 
