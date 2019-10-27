@@ -215,7 +215,7 @@ A blog app created in Django. This app allows the creation and editing of blog p
 
 [Blog App Repo](https://github.com/criticallycode/django_blog_app)
 
-<img src="coffee.jpg" width="300">
+<img src="blog1.png" width="150">
 
 ##### Django Craigslist Wrapper
 
@@ -223,7 +223,8 @@ A wrapper for Craigslist that lets people make searches and view search results 
 
 [Craigslist Wrapper Repo](https://github.com/criticallycode/cooler-craiglist-clone)
 
-<img src="coffee.jpg" width="300">
+<img src="craigslist1.png" width="150">
+<img src="craigslist2.png" width="150">
 
 ##### Django Poll App
 
@@ -231,7 +232,7 @@ An app that allows users to see and vote on various polls.
 
 [Polling App Repo](https://github.com/criticallycode/polling_app)
 
-<img src="coffee.jpg" width="300">
+<img src="poll1.png" width="150">
 
 ##### Django To-Do App
 
@@ -239,7 +240,7 @@ A to-do app created in Django that lets the user create items on a to-do list an
 
 [Django To-Do Repo](https://github.com/criticallycode/smooth-todo-app)
 
-<img src="coffee.jpg" width="300">
+<img src="todo.png" width="150">
 
 ## Tutorials
 
