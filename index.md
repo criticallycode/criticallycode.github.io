@@ -123,7 +123,8 @@ An analysis and classfication done on the Titanic dataset. Data is preprocessed 
 
 [Titanic Analysis Repo](https://github.com/criticallycode/awesome-titanic-analysis-prediction)
 
-<img src="coffee.jpg" width="300">
+<img src="titanic1.png" width="150">
+<img src="titanic2.png" width="150">
 
 ## Data Analysis
 
