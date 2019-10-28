@@ -237,7 +237,7 @@ A to-do app created in Django that lets the user create items on a to-do list an
 
 This project demonstrates the use of transfer learning and finetuning to classify images of blood cells. 
 
-[Blood Cell Classifier Repo and IPy Notebook(https://github.com/criticallycode/rad-blood-cell-classification-with-keras)
+[Blood Cell Classifier Repo and IPy Notebook](https://github.com/criticallycode/rad-blood-cell-classification-with-keras)
 
 <img src="bloodcells3.png" width="150">
 <img src="bloodcells1.png" width="150">
