@@ -25,14 +25,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Machine Learning/Deep Learning Projects
 
-##### Blood Cell Classifier - Transfer Learning - Model Finetuning (Keras)
-
-This project demonstrates the use of transfer learning and finetuning to classify images of blood cells. 
-
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
-
-<img src="coffee.jpg" width="300">
-
 ##### Flower Classification - Triple Model Classification (Keras)
 
 Flowers are classified in this project, and the performance of three different models is compared. A custom model, as well as ResNet50 and InceptionV3 are compared.
@@ -165,7 +157,8 @@ This project collected plot summaries from a variety of movies catalogued at the
 
 [Story Plot Generator Repo](https://github.com/criticallycode/story_plot_generator)
 
-<img src="coffee.jpg" width="300">
+<img src="plot1.png" width="150">
+<img src="plot2.png" width="150">
 
 ##### Movie Recommendation System
 A movie recommendation system based on the similarity of movie attributes such as Director, cast, genre, and various keywords. The similarities between the movies are calculated with different metrics and averaged together.
@@ -238,6 +231,16 @@ A to-do app created in Django that lets the user create items on a to-do list an
 <img src="todo1.png" width="150">
 
 ## Tutorials
+
+##### Blood Cell Classifier - Transfer Learning - Model Finetuning (Keras)
+
+This project demonstrates the use of transfer learning and finetuning to classify images of blood cells. 
+
+[Blood Cell Classifier Repo and IPy Notebook(https://github.com/criticallycode/rad-blood-cell-classification-with-keras)
+
+<img src="bloodcells3.png" width="150">
+<img src="bloodcells1.png" width="150">
+<img src="bloodcells2.png" width="150">
 
 ##### Keras Image Recognition Tutorial
 
