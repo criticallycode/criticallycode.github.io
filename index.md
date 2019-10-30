@@ -1,26 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/criticallycode/criticallycode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 # This Is My Portfolio
 
 ## Machine Learning/Deep Learning Projects
@@ -245,27 +222,32 @@ This project demonstrates the use of transfer learning and finetuning to classif
 
 ##### Keras Image Recognition Tutorial
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Keras Image Recognition Tutorial Article](https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/)
 
 <img src="coffee.jpg" width="300">
 
 ##### Multiple Linear Regression Tutorial
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Multiple Linear Regression Tutorial Article](https://stackabuse.com/multiple-linear-regression-with-python/)
 
 <img src="coffee.jpg" width="300">
 
 ##### PyTorch Transfer Learning Tutorial
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Transfer Learning PyTorch Tutorial Article](https://stackabuse.com/image-classification-with-transfer-learning-and-pytorch/)
 
 <img src="coffee.jpg" width="300">
 
 ##### Data Analysis and Storage with MongoDB Tutorial
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Data Analysis/MongoDB Tutorial Article](https://stackabuse.com/analyzing-api-data-with-mongodb-seaborn-and-matplotlib/)
 
 <img src="coffee.jpg" width="300">
 
+##### Overview of Classification Methods in Python/Scikit-Learn Tutorial
+
+[Scikit-learn Classification Tutorial Article](https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn/)
+
+<img src="coffee.jpg" width="300">
 
 
