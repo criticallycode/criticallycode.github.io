@@ -179,6 +179,7 @@ A weather app that gets weather based on your current GPS location.
 
 A blog app created in Django. This app allows the creation and editing of blog posts by users that can create and edit their accounts.
 
+[Blog Foundd Here](https://cooldjangoblog.herokuapp.com/)
 [Blog App Repo](https://github.com/criticallycode/django_blog_app)
 
 <img src="blog1.png" width="150">
@@ -224,30 +225,31 @@ This project demonstrates the use of transfer learning and finetuning to classif
 
 [Keras Image Recognition Tutorial Article](https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/)
 
-<img src="coffee.jpg" width="300">
+<img src="kerasimagetutorial.jpg" width="150">
 
 ##### Multiple Linear Regression Tutorial
 
 [Multiple Linear Regression Tutorial Article](https://stackabuse.com/multiple-linear-regression-with-python/)
 
-<img src="coffee.jpg" width="300">
+<img src="multiplelinearegression.jpg" width="150">
 
 ##### PyTorch Transfer Learning Tutorial
 
 [Transfer Learning PyTorch Tutorial Article](https://stackabuse.com/image-classification-with-transfer-learning-and-pytorch/)
 
-<img src="coffee.jpg" width="300">
+<img src="pytorchtransferlearning.jpg" width="150">
 
 ##### Data Analysis and Storage with MongoDB Tutorial
 
 [Data Analysis/MongoDB Tutorial Article](https://stackabuse.com/analyzing-api-data-with-mongodb-seaborn-and-matplotlib/)
 
-<img src="coffee.jpg" width="300">
+<img src="mongodb1.jpg" width="150">
+<img src="mongodb2.jpg" width="150">
 
 ##### Overview of Classification Methods in Python/Scikit-Learn Tutorial
 
 [Scikit-learn Classification Tutorial Article](https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn/)
 
-<img src="coffee.jpg" width="300">
+<img src="scikit-learn.jpg" width="150">
 
 
