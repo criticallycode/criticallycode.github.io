@@ -231,7 +231,7 @@ This project demonstrates the use of transfer learning and finetuning to classif
 
 [Multiple Linear Regression Tutorial Article](https://stackabuse.com/multiple-linear-regression-with-python/)
 
-<img src="multiplelinearegression.png" width="150">
+<img src="multiplelinearregression.png" width="150">
 
 ##### PyTorch Transfer Learning Tutorial
 
