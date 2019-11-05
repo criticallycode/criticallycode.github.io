@@ -83,19 +83,19 @@ An example of neural style transfer done with PyTorch. The content of one image 
 
 **Content Images**
 
-<img src="content1.jpg" width="150">
-<img src="content2.jpg" width="150">
-<img src="content3.jpg" width="150">
-<img src="content4.jpg" width="150">
-<img src="content5.jpg" width="150">
+<img src="content1.jpg" width="50">
+<img src="content2.jpg" width="50">
+<img src="content3.jpg" width="50">
+<img src="content4.jpg" width="50">
+<img src="content5.jpg" width="50">
 
 **Style Images**
 
-<img src="style1.jpg" width="150">          
-<img src="style2.jpg" width="150">
-<img src="style3.jpg" width="150">
-<img src="style4.jpg" width="150">
-<img src="style5.jpg" width="150">
+<img src="style1.jpg" width="50">          
+<img src="style2.jpg" width="50">
+<img src="style3.jpg" width="50">
+<img src="style4.jpg" width="50">
+<img src="style5.jpg" width="50">
                                    
 ##### Mushroom Classifier
 
