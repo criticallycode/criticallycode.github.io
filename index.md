@@ -71,7 +71,7 @@ An implementation of a text generation method with Pytorch, created with a recur
 
 An example of neural style transfer done with PyTorch. The content of one image is redrawn with the style of another image by averaging the loss of the two images.
 
-[Project Title 1 - Nonfunctional Link](http://reddit.com)
+[Style Transfer Repo](https://github.com/criticallycode/PyTorch-Style-Transfer-With-Notebook)
 
 **Transfer Results**
 
