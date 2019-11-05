@@ -73,8 +73,22 @@ An example of neural style transfer done with PyTorch. The content of one image 
 
 [Project Title 1 - Nonfunctional Link](http://reddit.com)
 
-<img src="coffee.jpg" width="300">
-
+<img src="transfer-1.png width="150">
+<img src="transfer-2.png" width="150">
+<img src="transfer-3.png" width="150">
+<img src="transfer-4.png" width="150">
+<img src="transfer-5.png" width="150">
+<img src="content1.jpg" width="150">
+<img src="content2.jpg" width="150">
+<img src="content3.jpg" width="150">
+<img src="content4.jpg" width="150">
+<img src="content5.jpg" width="150">
+<img src="style1.jpg" width="150">          
+<img src="style2.jpg" width="150">
+<img src="style3.jpg" width="150">
+<img src="style4.jpg" width="150">
+<img src="style5.jpg" width="150">
+                                   
 ##### Mushroom Classifier
 
 Classification and visualization of a dataset consisting of mushrooms with many different features.
@@ -187,7 +201,8 @@ A weather app that gets weather based on your current GPS location.
 
 A blog app created in Django. This app allows the creation and editing of blog posts by users that can create and edit their accounts.
 
-[Blog Foundd Here](https://cooldjangoblog.herokuapp.com/)
+[Blog Found Here](https://cooldjangoblog.herokuapp.com/)
+
 [Blog App Repo](https://github.com/criticallycode/django_blog_app)
 
 <img src="blog1.png" width="150">
