@@ -34,7 +34,7 @@ Text classification is carried out on multiple bodies of text. An embedding mode
 
 Classification of X-Ray medical images is carried out in this project. One classifier is trained on the original dataset and then a second set of data has perturbations applied to it to simulate image corruption. An example of transfer learning is carried out after this, retraining the original model on the new dataset.
 
-[X-Ray Classifier Repo](https://github.com/criticallycode/rad-blood-cell-classification-with-keras)
+[X-Ray Classifier Repo](https://github.com/criticallycode/retraining-xray-classifier)
 
 <img src="xray1.png" width="150">
 <img src="xray2.png" width="150">
